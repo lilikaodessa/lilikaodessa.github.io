@@ -1,0 +1,35 @@
+nav{
+    background-color: rgb(60, 80, 60);
+}
+
+.navitem{
+    color: white;
+}
+
+.character {
+    height: 300px;
+}
+
+.card{
+    height: 300px;
+}
+
+.lils {
+    background-image: linear-gradient(to bottom, rgb(69, 127, 141) , white);
+    margin-bottom: 10px;
+}
+
+.Ems{ background-image: linear-gradient(to bottom, rgb(243, 106, 232) , white);
+    margin-bottom: 10px;
+}
+
+.Tina{ background-image: linear-gradient(to bottom, rgb(241, 238, 64) , white);
+    margin-bottom: 10px;
+}
+
+.footer{
+    position: absolute;
+    bottom: 1;
+    width: 100%;
+    padding: 50px;
+  }
