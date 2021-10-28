@@ -18,17 +18,17 @@ nav{
 }
 
 .lils {
-    background-image: linear-gradient(to bottom, rgb(69, 127, 141) , white);
+    background-image: linear-gradient(to left, rgb(69, 127, 141) , white);
     margin-bottom: 10px;
     text-align: center;
 }
 
-.Ems{ background-image: linear-gradient(to bottom, rgb(243, 106, 232) , white);
+.Ems{ background-image: linear-gradient(to right, rgb(243, 106, 232) , white);
     margin-bottom: 10px;
     text-align: center;
 }
 
-.Tina{ background-image: linear-gradient(to bottom, rgb(241, 238, 64) , white);
+.Tina{ background-image: linear-gradient(to left, rgb(241, 238, 64) , white);
     margin-bottom: 10px;
     text-align: center;
 }
