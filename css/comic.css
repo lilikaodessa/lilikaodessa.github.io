@@ -1,3 +1,14 @@
+*{
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body{
+    margin: 0;
+    padding-left: 40px;
+    background-color: rgb(69, 127, 141);
+}
+
 nav{
     background-color: rgb(60, 80, 60);
 }
@@ -6,9 +17,16 @@ nav{
     color: white;
 }
 
+
+
+h1{
+    text-align: center;
+background-color: rgb(60, 80, 60);
+}
+
 .footer{
     position: absolute;
-    bottom: 1;
+    bottom: 0;
     width: 100%;
     padding: 50px;
   }

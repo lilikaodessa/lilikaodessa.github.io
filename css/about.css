@@ -7,24 +7,30 @@ nav{
 }
 
 .character {
+    text-align: center;
     height: 300px;
+    
 }
 
-.card{
-    height: 300px;
+.cards{
+    height: 100px;
+    margin-right: 0;
 }
 
 .lils {
     background-image: linear-gradient(to bottom, rgb(69, 127, 141) , white);
     margin-bottom: 10px;
+    text-align: center;
 }
 
 .Ems{ background-image: linear-gradient(to bottom, rgb(243, 106, 232) , white);
     margin-bottom: 10px;
+    text-align: center;
 }
 
 .Tina{ background-image: linear-gradient(to bottom, rgb(241, 238, 64) , white);
     margin-bottom: 10px;
+    text-align: center;
 }
 
 .footer{
